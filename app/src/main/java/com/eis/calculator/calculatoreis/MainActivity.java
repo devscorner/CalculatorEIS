@@ -35,7 +35,7 @@ public class MainActivity extends Activity {
 
 
     }
-    https://tanzil_taqi@bitbucket.org/tanzil_taqi/calculatoreis.git
+    //https://tanzil_taqi@bitbucket.org/tanzil_taqi/calculatoreis.git
 
     public void HideSoftKeyboard(View v) {
         if (getCurrentFocus() != null) {
